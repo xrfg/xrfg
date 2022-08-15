@@ -1,4 +1,4 @@
-#### Hi, I'm Rox! 👋
+#### Hi, I'm Rox! I'm a Software developer at Joyon 👋
 #### 🚀 About Me
 Frontend Web Developer with a background in Communication Design and Art. Currently working remotely at Joyon, a startup in Duesseldorf, in the Education industry. Proficient in Javascript and React and always on the lookout for the latest technologies. Love drawing and literature.
 #### 🛠 Skills
