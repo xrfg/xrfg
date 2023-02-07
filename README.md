@@ -1,6 +1,6 @@
-#### Hi, I'm Rox! I'm a Software developer at Joyon 👋
+#### Hi, I'm Roxana! I’m a Frontend Web Developer open to work! 👋
 #### 🚀 About Me
-Frontend Web Developer with a background in Communication Design and Art. Currently working remotely at Joyon, a startup in Duesseldorf, in the Education industry. Proficient in Javascript and React and always on the lookout for the latest technologies. Love drawing and literature.
+Frontend Web Developer with a background in Graphic Design and Art. Currently looking for work, since the start-up I was interning for went into hibernation mode. Proficient in Javascript and React and always on the lookout for the latest technologies. My hobbies are drawing and literature.
 #### 🛠 Skills
 HTML, CSS (& Sass), JavaScript, Typescript, Node, React, Next.js, Redux, MongoDB, Git, Supabase, Tailwind, Mat Ui, Mantine Ui, Docker, Figma, Adobe XD
 #### 🔗 Links
